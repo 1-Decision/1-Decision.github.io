@@ -1,0 +1,12 @@
+<title>1-Decision</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	<meta name="description" content="For the techie tired of google" />
+	<meta property="og:site_name" content="Techie Coming Soon" />
+	<meta property="og:title" content="Techie Coming Soon" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="For the techie tired of google" />
+	<link href="https://fonts.googleapis.com/css?display=swap&family=JetBrains+Mono:700,700italic,400,400italic,600,600italic,800,800italic,800,800italic%7CLato:400,400italic,700,700italic" rel="stylesheet" type="text/css" />
+
+	<link rel="stylesheet" href="@pathto(output/assets/css/main.css)" />
+	<noscript><link rel="stylesheet" href="@pathto(output/assets/css/noscript.css)" /></noscript>

@@ -1,0 +1,36 @@
+<div id="wrapper">
+	<div id="main">
+		<div class="inner">
+			<section id="home-section">
+				<div id="image02" class="image">
+					<span class="frame"><img src="assets/images/image02.png" alt="" /></span>
+				</div>
+				<h1 id="text03" class="style1">A better way to get stuff done! <span style="color: #ffffff"><em>Coming Soon</em></span></h1>
+				<p id="text04" class="style2"><span class="p">Making your everyday decision making easy &amp; stress-free using the power of Machine Learning &amp; Artificial Intelligence.</span></p>
+				<p id="text05" class="style2"><span class="p">We believe less is more: No ads or affiliate links!</span></p>
+				<p id="text06" class="style2"><span class="p"><strong>Because <span style="color: #ffffff">we</span> are also tired of being the product</strong></span></p>
+				<form id="form01" class="style1">
+					<div class="inner">
+						<div class="field">
+							<input type="email" name="email" id="form01-email" placeholder="Email address" maxlength="128" required />
+						</div>
+						<div class="actions">
+							<button><span class="label">Learn more</span></button>
+						</div>
+					</div>
+					<input type="hidden" name="id" value="form01" />
+				</form>
+				
+			</section>
+			<section id="done-section">
+				<h2 id="text02" class="style1"><em>Thank you</em></h2>
+				<p id="text01" class="style2"><span class="p">Please check and your email and follow the verification link!<br />(note: it may have gone to spam)</span><span class="p">Any issues or want to connect directly?<br />contact: collin@1-decision.com</span></p>
+				<ul id="buttons01" class="style1 buttons">
+					<li>
+						<a href="@pathto(index)" class="button n01"><span class="label">Continue</span></a>
+					</li>
+				</ul>
+			</section>
+		</div>
+	</div>
+</div>
