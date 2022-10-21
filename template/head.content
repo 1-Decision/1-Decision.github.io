@@ -10,3 +10,5 @@
 
 	<link rel="stylesheet" href="@pathto(output/assets/css/main.css)" />
 	<noscript><link rel="stylesheet" href="@pathto(output/assets/css/noscript.css)" /></noscript>
+
+	<link rel='icon' type='image/png' href='@pathto(output/assets/images/logo-green.svg)'>
